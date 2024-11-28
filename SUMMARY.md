@@ -3,6 +3,7 @@
 ## 🏠 Home
 
 * [👋 Welcome](README.md)
+* [🧰 Troubleshooting](home/troubleshooting.md)
 
 ## 📙 Exported Functions Reference
 
