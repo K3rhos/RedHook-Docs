@@ -1,7 +1,8 @@
 # Table of contents
 
-* [🏠 Home](README.md)
-  * [👋 Welcome](home/welcome.md)
+## 🏠 Home
+
+* [👋 Welcome](README.md)
 
 ## 📙 Exported Functions Reference
 
