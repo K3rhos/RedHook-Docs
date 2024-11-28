@@ -12,7 +12,7 @@ Be sure you have installed the latest [Visual C++ Redistributable](https://learn
 
 ## RedHook is detected as a virus
 
-Some antivirus software may flag **RedHook** as a potential virus. If you encounter this issue: Add an exclusion for the RDR folder in your antivirus settings. Alternatively, temporarily disable your antivirus software.
+Some antivirus software may flag **RedHook** as a potential virus. If you encounter this issue, please add an exclusion to your RDR install folder in your antivirus settings. Alternatively, temporarily disable your antivirus software.
 
 ## RedHook is partially working but i don't have any visual/doesn't render anything
 
