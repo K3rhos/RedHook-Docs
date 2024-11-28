@@ -1,8 +1,11 @@
 # Table of contents
 
+* [🏠 Home](README.md)
+  * [👋 Welcome](home/welcome.md)
+
 ## 📙 Exported Functions Reference
 
-* [RH\_GetMinorVersion](README.md)
+* [RH\_GetMinorVersion](<README (1).md>)
 * [RH\_GetMajorVersion](exported-functions-reference/rh_getmajorversion.md)
 * [ScriptWait](exported-functions-reference/scriptwait.md)
 * [ScriptRegister](exported-functions-reference/scriptregister.md)
