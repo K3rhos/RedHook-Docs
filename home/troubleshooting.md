@@ -2,7 +2,7 @@
 
 Below you will find a list of the common issues you can encounter when installing or using **RedHook**.
 
-## I'm getting _"Access Violation Errors"_ at game launch
+## I'm getting _"Access Violation"_ error at game launch
 
 If you experience access violation errors, please disable software that may conflict with **RedHook**, such as **MSI Afterburner** and **RivaTuner**.
 
