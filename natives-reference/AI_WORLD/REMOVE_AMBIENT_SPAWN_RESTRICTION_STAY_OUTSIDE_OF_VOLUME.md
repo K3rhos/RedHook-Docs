@@ -1,0 +1,9 @@
+---
+description: No description available 
+---
+
+# REMOVE_AMBIENT_SPAWN_RESTRICTION_STAY_OUTSIDE_OF_VOLUME
+
+```cpp
+void REMOVE_AMBIENT_SPAWN_RESTRICTION_STAY_OUTSIDE_OF_VOLUME(int _Unk0);
+```
