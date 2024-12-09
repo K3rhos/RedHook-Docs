@@ -1,0 +1,9 @@
+---
+description: No description available 
+---
+
+# VEHICLES\_ENABLE_VEHICLE_SEAT
+
+```cpp
+bool ENABLE_VEHICLE_SEAT(Vehicle _Vehicle, int _SeatId, bool _Enable);
+```

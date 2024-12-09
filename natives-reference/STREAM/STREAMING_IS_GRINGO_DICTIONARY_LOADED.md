@@ -1,0 +1,9 @@
+---
+description: No description available 
+---
+
+# STREAM\_STREAMING_IS_GRINGO_DICTIONARY_LOADED
+
+```cpp
+int STREAMING_IS_GRINGO_DICTIONARY_LOADED(int _Unk0);
+```

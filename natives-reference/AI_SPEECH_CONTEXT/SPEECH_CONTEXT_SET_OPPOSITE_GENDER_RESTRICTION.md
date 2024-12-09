@@ -1,0 +1,9 @@
+---
+description: No description available 
+---
+
+# AI_SPEECH_CONTEXT\_SPEECH_CONTEXT_SET_OPPOSITE_GENDER_RESTRICTION
+
+```cpp
+void SPEECH_CONTEXT_SET_OPPOSITE_GENDER_RESTRICTION(int _Unk0);
+```

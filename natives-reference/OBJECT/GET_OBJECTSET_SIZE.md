@@ -1,0 +1,9 @@
+---
+description: No description available 
+---
+
+# OBJECT\_GET_OBJECTSET_SIZE
+
+```cpp
+int GET_OBJECTSET_SIZE(int _Unk0);
+```

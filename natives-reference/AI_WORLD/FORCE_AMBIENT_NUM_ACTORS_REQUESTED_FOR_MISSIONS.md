@@ -1,0 +1,9 @@
+---
+description: No description available 
+---
+
+# AI_WORLD\_FORCE_AMBIENT_NUM_ACTORS_REQUESTED_FOR_MISSIONS
+
+```cpp
+int FORCE_AMBIENT_NUM_ACTORS_REQUESTED_FOR_MISSIONS();
+```

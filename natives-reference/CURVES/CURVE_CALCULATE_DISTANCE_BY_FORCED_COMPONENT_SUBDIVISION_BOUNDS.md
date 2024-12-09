@@ -1,0 +1,9 @@
+---
+description: No description available 
+---
+
+# CURVES\_CURVE_CALCULATE_DISTANCE_BY_FORCED_COMPONENT_SUBDIVISION_BOUNDS
+
+```cpp
+int CURVE_CALCULATE_DISTANCE_BY_FORCED_COMPONENT_SUBDIVISION_BOUNDS(int _Unk0, int _Unk1, int _Unk2, int _Unk3);
+```
