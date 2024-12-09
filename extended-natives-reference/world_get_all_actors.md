@@ -25,7 +25,7 @@ static const std::vector<Actor> GetWorldAllActors()
 	{
 		Actor actor = actors[i];
 
-		if (!UNSORTED::IS_ACTOR_VALID(actor))
+		if (!ENTITY::IS_ACTOR_VALID(actor))
 			continue;
 
 		result.push_back(actor);

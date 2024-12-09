@@ -14,9 +14,9 @@ bool WORLD_TO_SCREEN(Vector3* _WorldPosition, float* _X, float* _Y);
 ```
 
 ```cpp
-Actor localPlayerActor = UNSORTED::GET_PLAYER_ACTOR(-1);
+Actor localPlayerActor = ACTOR::GET_PLAYER_ACTOR(-1);
 
-Vector3 playerPosition = UNSORTED::GET_POSITION(localPlayerActor);
+Vector3 playerPosition = ACTOR::GET_POSITION(localPlayerActor);
 
 float x, y;
 if (REDHOOK::WORLD_TO_SCREEN(&playerPosition, &x, &y))

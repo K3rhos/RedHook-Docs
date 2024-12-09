@@ -16,7 +16,7 @@ void ALLOW_GAMEPLAY_CAMERA_FOV_OVERRIDE(bool _Toggle);
 
 <pre class="language-cpp"><code class="lang-cpp">REDHOOK::ALLOW_GAMEPLAY_CAMERA_FOV_OVERRIDE(true);
 
-<strong>Camera gameplayCamera = UNSORTED::GET_GAME_CAMERA();
+<strong>Camera gameplayCamera = CAM::GET_GAME_CAMERA();
 </strong>
-UNSORTED::SET_CAMERA_FOV(gameplayCamera, 100.0f); // Set the Gameplay FOV to 100.0
+CAMERA::SET_CAMERA_FOV(gameplayCamera, 100.0f); // Set the Gameplay FOV to 100.0
 </code></pre>

@@ -9,7 +9,7 @@ uintptr_t GET_ADDRESS_FROM_OBJECT(Object _Object);
 ```
 
 ```cpp
-Actor localPlayerActor = UNSORTED::GET_PLAYER_ACTOR(-1);
+Actor localPlayerActor = ACTOR::GET_PLAYER_ACTOR(-1);
 
 uintptr_t addr = REDHOOK::GET_ADDRESS_FROM_OBJECT(localPlayerActor);
 
