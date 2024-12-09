@@ -40,3 +40,5 @@
 
 * [Page](natives-reference/page/README.md)
   * [Page 2](natives-reference/page/page-2.md)
+* [Copy of Page](natives-reference/page-1/README.md)
+  * [Page 2](natives-reference/page-1/page-2.md)
