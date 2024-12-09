@@ -1,9 +1,0 @@
----
-description: No description available 
----
-
-# FORCE_AMBIENT_NUM_ACTORS_REQUESTED_FOR_MISSIONS
-
-```cpp
-int FORCE_AMBIENT_NUM_ACTORS_REQUESTED_FOR_MISSIONS();
-```
