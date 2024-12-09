@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\_SCRIPT_GETTESTSCRIPT
+# SCRIPT_GETTESTSCRIPT
 
 ```cpp
 int SCRIPT_GETTESTSCRIPT();

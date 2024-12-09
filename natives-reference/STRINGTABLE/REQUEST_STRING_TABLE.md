@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# STRINGTABLE\_REQUEST_STRING_TABLE
+# REQUEST_STRING_TABLE
 
 ```cpp
 void REQUEST_STRING_TABLE(const char* StringTablePath);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# INVENTORY\_ACTOR_SET_NEXT_WEAPON
+# ACTOR_SET_NEXT_WEAPON
 
 ```cpp
 void ACTOR_SET_NEXT_WEAPON(int _Unk0, int _Unk1);

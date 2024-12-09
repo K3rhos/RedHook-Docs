@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# EVENT\_GET_EVENT_TARGET_AS_OBJECT
+# GET_EVENT_TARGET_AS_OBJECT
 
 ```cpp
 int GET_EVENT_TARGET_AS_OBJECT(int _Unk0);

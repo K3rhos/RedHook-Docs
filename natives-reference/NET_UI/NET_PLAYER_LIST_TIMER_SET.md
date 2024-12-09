@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# NET_UI\_NET_PLAYER_LIST_TIMER_SET
+# NET_PLAYER_LIST_TIMER_SET
 
 ```cpp
 void NET_PLAYER_LIST_TIMER_SET(int _Unk0);

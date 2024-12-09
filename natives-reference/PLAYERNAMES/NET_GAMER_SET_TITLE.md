@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# PLAYERNAMES\_NET_GAMER_SET_TITLE
+# NET_GAMER_SET_TITLE
 
 ```cpp
 void NET_GAMER_SET_TITLE(int _Unk0, int _Unk1);

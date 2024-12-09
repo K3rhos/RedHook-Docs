@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# INVENTORY\_ACTOR_HAS_VARIABLE_MESH
+# ACTOR_HAS_VARIABLE_MESH
 
 ```cpp
 bool ACTOR_HAS_VARIABLE_MESH(Actor _Actor, int _Id);

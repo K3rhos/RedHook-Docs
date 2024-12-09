@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\_UNPAUSE_GAME
+# UNPAUSE_GAME
 
 ```cpp
 void UNPAUSE_GAME();

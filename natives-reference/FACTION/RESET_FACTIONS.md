@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# FACTION\_RESET_FACTIONS
+# RESET_FACTIONS
 
 ```cpp
 void RESET_FACTIONS();

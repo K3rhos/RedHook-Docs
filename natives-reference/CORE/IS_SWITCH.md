@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\_IS_SWITCH
+# IS_SWITCH
 
 ```cpp
 bool IS_SWITCH();

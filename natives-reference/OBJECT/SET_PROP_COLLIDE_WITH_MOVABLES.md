@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# OBJECT\_SET_PROP_COLLIDE_WITH_MOVABLES
+# SET_PROP_COLLIDE_WITH_MOVABLES
 
 ```cpp
 void SET_PROP_COLLIDE_WITH_MOVABLES(int _Unk0, int _Unk1);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# TARGETING\_SET_ACTOR_USE_FULLSCREEN_ACQUISITION
+# SET_ACTOR_USE_FULLSCREEN_ACQUISITION
 
 ```cpp
 void SET_ACTOR_USE_FULLSCREEN_ACQUISITION(int _Unk0, int _Unk1);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\__TERMINATE_ALL_NAMED_CHILD_SCRIPTS
+# _TERMINATE_ALL_NAMED_CHILD_SCRIPTS
 
 ```cpp
 void _TERMINATE_ALL_NAMED_CHILD_SCRIPTS(const char* _Str);

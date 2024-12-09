@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# GRINGO\_GRINGO_GET_ACTOR_SPECIFIC_AST_FILENAME
+# GRINGO_GET_ACTOR_SPECIFIC_AST_FILENAME
 
 ```cpp
 int GRINGO_GET_ACTOR_SPECIFIC_AST_FILENAME(int _Unk0, int _Unk1);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# FX\_CANCEL_DEADEYE
+# CANCEL_DEADEYE
 
 ```cpp
 void CANCEL_DEADEYE();

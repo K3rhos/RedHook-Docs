@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# TARGETING\_SET_ACTOR_CAN_BE_BUMPTARGETED
+# SET_ACTOR_CAN_BE_BUMPTARGETED
 
 ```cpp
 void SET_ACTOR_CAN_BE_BUMPTARGETED(int _Unk0, int _Unk1);

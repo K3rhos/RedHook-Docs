@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CAMERA\_RESET_CAMERASHOT_TARGET
+# RESET_CAMERASHOT_TARGET
 
 ```cpp
 void RESET_CAMERASHOT_TARGET(int _Unk0, int _Unk1);

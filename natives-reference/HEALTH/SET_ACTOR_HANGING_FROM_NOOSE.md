@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# HEALTH\_SET_ACTOR_HANGING_FROM_NOOSE
+# SET_ACTOR_HANGING_FROM_NOOSE
 
 ```cpp
 void SET_ACTOR_HANGING_FROM_NOOSE(Actor _Actor, int _Unk1);

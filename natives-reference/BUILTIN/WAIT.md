@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# BUILTIN\_WAIT
+# WAIT
 
 ```cpp
 void WAIT(int _Ms);

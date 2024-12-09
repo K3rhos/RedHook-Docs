@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# HUD\_UI_DUMP_MESSAGE_QUEUE_TO_NOTES
+# UI_DUMP_MESSAGE_QUEUE_TO_NOTES
 
 ```cpp
 void UI_DUMP_MESSAGE_QUEUE_TO_NOTES(int _Unk0);

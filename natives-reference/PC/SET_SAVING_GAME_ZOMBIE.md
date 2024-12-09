@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# PC\_SET_SAVING_GAME_ZOMBIE
+# SET_SAVING_GAME_ZOMBIE
 
 ```cpp
 int SET_SAVING_GAME_ZOMBIE(int _Unk0);

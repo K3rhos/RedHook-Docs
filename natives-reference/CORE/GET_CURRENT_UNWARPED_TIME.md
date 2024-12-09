@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\_GET_CURRENT_UNWARPED_TIME
+# GET_CURRENT_UNWARPED_TIME
 
 ```cpp
 float GET_CURRENT_UNWARPED_TIME();

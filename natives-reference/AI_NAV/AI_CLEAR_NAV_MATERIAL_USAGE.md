@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# AI_NAV\_AI_CLEAR_NAV_MATERIAL_USAGE
+# AI_CLEAR_NAV_MATERIAL_USAGE
 
 ```cpp
 void AI_CLEAR_NAV_MATERIAL_USAGE(int _Unk0);

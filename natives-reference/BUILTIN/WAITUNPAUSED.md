@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# BUILTIN\_WAITUNPAUSED
+# WAITUNPAUSED
 
 ```cpp
 void WAITUNPAUSED(int _Ms);

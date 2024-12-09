@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CAMERA\_SET_CAMERASHOT_TARGETDOF_SMOOTHING
+# SET_CAMERASHOT_TARGETDOF_SMOOTHING
 
 ```cpp
 void SET_CAMERASHOT_TARGETDOF_SMOOTHING(int _Unk0, int _Unk1);

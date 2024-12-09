@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# VOLUME\_IS_POINT_IN_VOLUME
+# IS_POINT_IN_VOLUME
 
 ```cpp
 bool IS_POINT_IN_VOLUME(float _X, float _Y, float _Z, Volume _Volume);

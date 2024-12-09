@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# BUILTIN\_TIMESTEP
+# TIMESTEP
 
 ```cpp
 float TIMESTEP();

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# GRINGO\_GRINGO_WAIT
+# GRINGO_WAIT
 
 ```cpp
 void GRINGO_WAIT(int _Unk0);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# NET_STATS\_NET_CHALLENGE_LB_CREATE_READER
+# NET_CHALLENGE_LB_CREATE_READER
 
 ```cpp
 int NET_CHALLENGE_LB_CREATE_READER(int _Unk0, int _Unk1);

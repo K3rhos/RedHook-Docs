@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\_SAVE_MANAGER_CREATE_SAVE_DISPLAY_NAME
+# SAVE_MANAGER_CREATE_SAVE_DISPLAY_NAME
 
 ```cpp
 void SAVE_MANAGER_CREATE_SAVE_DISPLAY_NAME(const char* _DisplayName);

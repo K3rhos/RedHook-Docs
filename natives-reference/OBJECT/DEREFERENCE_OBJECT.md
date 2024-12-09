@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# OBJECT\_DEREFERENCE_OBJECT
+# DEREFERENCE_OBJECT
 
 ```cpp
 void DEREFERENCE_OBJECT(int _Unk0);

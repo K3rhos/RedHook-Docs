@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# BUILTIN\_FLOOR
+# FLOOR
 
 ```cpp
 int FLOOR(float _Value);

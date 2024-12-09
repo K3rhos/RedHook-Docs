@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# VEHICLES\_TRAIN_GET_NEAREST_POI_DISTANCE
+# TRAIN_GET_NEAREST_POI_DISTANCE
 
 ```cpp
 int TRAIN_GET_NEAREST_POI_DISTANCE(int _Unk0);

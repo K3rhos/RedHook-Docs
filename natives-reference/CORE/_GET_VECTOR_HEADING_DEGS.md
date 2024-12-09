@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\__GET_VECTOR_HEADING_DEGS
+# _GET_VECTOR_HEADING_DEGS
 
 ```cpp
 float _GET_VECTOR_HEADING_DEGS(Vector3* _Vector);

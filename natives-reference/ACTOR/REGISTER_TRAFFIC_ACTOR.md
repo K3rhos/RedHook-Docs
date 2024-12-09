@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# ACTOR\_REGISTER_TRAFFIC_ACTOR
+# REGISTER_TRAFFIC_ACTOR
 
 ```cpp
 void REGISTER_TRAFFIC_ACTOR(int _Unk0, int _Unk1);

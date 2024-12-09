@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# HUD\_HUD_FADE_IN_NOW
+# HUD_FADE_IN_NOW
 
 ```cpp
 void HUD_FADE_IN_NOW(int _Unk0, int _Unk1);

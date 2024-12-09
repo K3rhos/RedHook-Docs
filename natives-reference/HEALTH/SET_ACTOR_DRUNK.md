@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# HEALTH\_SET_ACTOR_DRUNK
+# SET_ACTOR_DRUNK
 
 ```cpp
 void SET_ACTOR_DRUNK(Actor _Actor, bool _IsDrunk);

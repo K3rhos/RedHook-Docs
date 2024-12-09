@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# OBJECT\_GET_CRIME_COUNTER
+# GET_CRIME_COUNTER
 
 ```cpp
 int GET_CRIME_COUNTER(int _Unk0);

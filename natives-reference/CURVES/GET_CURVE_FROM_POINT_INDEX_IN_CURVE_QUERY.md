@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CURVES\_GET_CURVE_FROM_POINT_INDEX_IN_CURVE_QUERY
+# GET_CURVE_FROM_POINT_INDEX_IN_CURVE_QUERY
 
 ```cpp
 int GET_CURVE_FROM_POINT_INDEX_IN_CURVE_QUERY(int _Unk0, int _Unk1);

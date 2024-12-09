@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# OBJECT\_DEREFERENCE_ACTOR
+# DEREFERENCE_ACTOR
 
 ```cpp
 void DEREFERENCE_ACTOR(Actor _Actor);

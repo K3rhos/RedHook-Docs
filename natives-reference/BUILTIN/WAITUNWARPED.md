@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# BUILTIN\_WAITUNWARPED
+# WAITUNWARPED
 
 ```cpp
 void WAITUNWARPED(int _Ms);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# AUDIO\_AUDIO_SET_GLOBAL_LAW_VALUES
+# AUDIO_SET_GLOBAL_LAW_VALUES
 
 ```cpp
 void AUDIO_SET_GLOBAL_LAW_VALUES(int _Unk0, int _Unk1, int _Unk2);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\_GET_COMMANDLINE_START_POS
+# GET_COMMANDLINE_START_POS
 
 ```cpp
 const char* GET_COMMANDLINE_START_POS(int _Unk0, int _Unk1);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\_TERMINATE_SCRIPT
+# TERMINATE_SCRIPT
 
 ```cpp
 void TERMINATE_SCRIPT(int _ScriptId);

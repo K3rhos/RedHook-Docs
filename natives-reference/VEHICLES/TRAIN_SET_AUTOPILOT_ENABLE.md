@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# VEHICLES\_TRAIN_SET_AUTOPILOT_ENABLE
+# TRAIN_SET_AUTOPILOT_ENABLE
 
 ```cpp
 void TRAIN_SET_AUTOPILOT_ENABLE(int _Unk0, int _Unk1);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# ENTITY\_REMOVE_CAPABILITY
+# REMOVE_CAPABILITY
 
 ```cpp
 void REMOVE_CAPABILITY(int _Unk0, int _Unk1);

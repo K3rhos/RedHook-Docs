@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# ENTITY\_IS_ACTOR_CROUCHING
+# IS_ACTOR_CROUCHING
 
 ```cpp
 bool IS_ACTOR_CROUCHING(Actor _Actor);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# INVENTORY\_ACTOR_SET_WEAPON_AMMO
+# ACTOR_SET_WEAPON_AMMO
 
 ```cpp
 void ACTOR_SET_WEAPON_AMMO(Actor _Actor, WeaponModel _WeaponModel, float _AmmoCount);

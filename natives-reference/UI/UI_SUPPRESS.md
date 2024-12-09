@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# UI\_UI_SUPPRESS
+# UI_SUPPRESS
 
 ```cpp
 void UI_SUPPRESS(char* uiLayer);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# ANIM\_ACTOR_HAS_ANIM_SET
+# ACTOR_HAS_ANIM_SET
 
 ```cpp
 bool ACTOR_HAS_ANIM_SET(Actor _Actor, const char* _AnimSet);

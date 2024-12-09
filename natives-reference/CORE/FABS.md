@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\_FABS
+# FABS
 
 ```cpp
 float FABS(float _Value);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# BUILTIN\_ROUND
+# ROUND
 
 ```cpp
 int ROUND(float _Value);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# NET\_NET_POSSE_IS_INVITE_PRESENT
+# NET_POSSE_IS_INVITE_PRESENT
 
 ```cpp
 int NET_POSSE_IS_INVITE_PRESENT(int _Unk0);

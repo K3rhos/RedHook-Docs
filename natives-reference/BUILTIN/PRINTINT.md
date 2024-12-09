@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# BUILTIN\_PRINTINT
+# PRINTINT
 
 ```cpp
 void PRINTINT(int _Value);

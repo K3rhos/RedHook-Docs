@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# GRINGO\_GRINGO_GET_ATTRIBUTE_COUNT
+# GRINGO_GET_ATTRIBUTE_COUNT
 
 ```cpp
 int GRINGO_GET_ATTRIBUTE_COUNT(int _Unk0);

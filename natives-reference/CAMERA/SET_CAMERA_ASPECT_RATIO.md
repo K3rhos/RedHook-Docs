@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CAMERA\_SET_CAMERA_ASPECT_RATIO
+# SET_CAMERA_ASPECT_RATIO
 
 ```cpp
 void SET_CAMERA_ASPECT_RATIO(int _Unk0, int _Unk1);

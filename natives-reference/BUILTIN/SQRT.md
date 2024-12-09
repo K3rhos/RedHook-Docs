@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# BUILTIN\_SQRT
+# SQRT
 
 ```cpp
 float SQRT(float _Value);

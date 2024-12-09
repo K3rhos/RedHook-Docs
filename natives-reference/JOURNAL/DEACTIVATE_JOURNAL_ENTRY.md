@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# JOURNAL\_DEACTIVATE_JOURNAL_ENTRY
+# DEACTIVATE_JOURNAL_ENTRY
 
 ```cpp
 void DEACTIVATE_JOURNAL_ENTRY(int _Unk0, int _Unk1);

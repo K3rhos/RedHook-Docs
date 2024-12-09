@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# INVENTORY\_ACTOR_GET_INV_AMMO_INFINITE
+# ACTOR_GET_INV_AMMO_INFINITE
 
 ```cpp
 bool ACTOR_GET_INV_AMMO_INFINITE(Actor _Actor, WeaponModel _WeaponModel);

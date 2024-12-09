@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# GRINGO\_GRINGO_CLEAR_COMPONENT_USER
+# GRINGO_CLEAR_COMPONENT_USER
 
 ```cpp
 void GRINGO_CLEAR_COMPONENT_USER(int _Unk0);

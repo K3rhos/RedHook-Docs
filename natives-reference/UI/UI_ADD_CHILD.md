@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# UI\_UI_ADD_CHILD
+# UI_ADD_CHILD
 
 ```cpp
 void UI_ADD_CHILD(int _Unk0, int _Unk1);

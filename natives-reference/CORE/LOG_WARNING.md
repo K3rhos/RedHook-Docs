@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\_LOG_WARNING
+# LOG_WARNING
 
 ```cpp
 void LOG_WARNING(const char* _Message);

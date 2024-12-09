@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# TASKS\_TASK_SEQUENCE_RELEASE
+# TASK_SEQUENCE_RELEASE
 
 ```cpp
 void TASK_SEQUENCE_RELEASE(int _Unk0, int _Unk1);

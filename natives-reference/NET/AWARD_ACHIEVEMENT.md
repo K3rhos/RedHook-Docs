@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# NET\_AWARD_ACHIEVEMENT
+# AWARD_ACHIEVEMENT
 
 ```cpp
 void AWARD_ACHIEVEMENT(int _Id);

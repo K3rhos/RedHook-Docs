@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# ENTITY\_IS_ACTOR_MALE
+# IS_ACTOR_MALE
 
 ```cpp
 int IS_ACTOR_MALE(int _Unk0);

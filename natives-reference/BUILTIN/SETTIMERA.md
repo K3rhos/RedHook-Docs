@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# BUILTIN\_SETTIMERA
+# SETTIMERA
 
 ```cpp
 void SETTIMERA(int _Value);

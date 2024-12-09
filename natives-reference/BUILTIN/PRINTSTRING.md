@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# BUILTIN\_PRINTSTRING
+# PRINTSTRING
 
 ```cpp
 void PRINTSTRING(const char* _Str);

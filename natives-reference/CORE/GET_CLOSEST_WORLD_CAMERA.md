@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\_GET_CLOSEST_WORLD_CAMERA
+# GET_CLOSEST_WORLD_CAMERA
 
 ```cpp
 int GET_CLOSEST_WORLD_CAMERA(int _Unk0, int _Unk1, int _Unk2, int _Unk3);

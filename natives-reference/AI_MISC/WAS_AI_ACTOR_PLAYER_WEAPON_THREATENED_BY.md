@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# AI_MISC\_WAS_AI_ACTOR_PLAYER_WEAPON_THREATENED_BY
+# WAS_AI_ACTOR_PLAYER_WEAPON_THREATENED_BY
 
 ```cpp
 int WAS_AI_ACTOR_PLAYER_WEAPON_THREATENED_BY(int _Unk0, int _Unk1, int _Unk2);

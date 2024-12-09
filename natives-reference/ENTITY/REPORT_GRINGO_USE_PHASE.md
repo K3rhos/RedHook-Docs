@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# ENTITY\_REPORT_GRINGO_USE_PHASE
+# REPORT_GRINGO_USE_PHASE
 
 ```cpp
 void REPORT_GRINGO_USE_PHASE(int _Unk0, int _Unk1);

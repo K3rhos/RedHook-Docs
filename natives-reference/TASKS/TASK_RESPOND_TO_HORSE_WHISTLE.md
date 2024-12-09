@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# TASKS\_TASK_RESPOND_TO_HORSE_WHISTLE
+# TASK_RESPOND_TO_HORSE_WHISTLE
 
 ```cpp
 void TASK_RESPOND_TO_HORSE_WHISTLE(int _Unk0, int _Unk1);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# NET\_NET_POSSE_IS_REQUEST_PRESENT
+# NET_POSSE_IS_REQUEST_PRESENT
 
 ```cpp
 int NET_POSSE_IS_REQUEST_PRESENT(int _Unk0);

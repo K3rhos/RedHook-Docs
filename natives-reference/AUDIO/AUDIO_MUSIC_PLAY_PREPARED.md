@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# AUDIO\_AUDIO_MUSIC_PLAY_PREPARED
+# AUDIO_MUSIC_PLAY_PREPARED
 
 ```cpp
 bool AUDIO_MUSIC_PLAY_PREPARED();

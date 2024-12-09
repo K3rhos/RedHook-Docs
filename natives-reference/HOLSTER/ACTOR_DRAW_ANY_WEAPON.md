@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# HOLSTER\_ACTOR_DRAW_ANY_WEAPON
+# ACTOR_DRAW_ANY_WEAPON
 
 ```cpp
 int ACTOR_DRAW_ANY_WEAPON(int _Unk0, int _Unk1);

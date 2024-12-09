@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# DLC\_DLC_INIT_STRINGTABLE_STREAMABLES
+# DLC_INIT_STRINGTABLE_STREAMABLES
 
 ```cpp
 int DLC_INIT_STRINGTABLE_STREAMABLES(int _Unk0, int _Unk1);

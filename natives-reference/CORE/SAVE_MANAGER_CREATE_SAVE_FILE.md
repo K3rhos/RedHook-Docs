@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CORE\_SAVE_MANAGER_CREATE_SAVE_FILE
+# SAVE_MANAGER_CREATE_SAVE_FILE
 
 ```cpp
 void SAVE_MANAGER_CREATE_SAVE_FILE(int _Unk0, const char* _Unk1, const char* _Unk2);

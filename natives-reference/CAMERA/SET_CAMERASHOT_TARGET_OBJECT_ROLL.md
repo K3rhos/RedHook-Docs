@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# CAMERA\_SET_CAMERASHOT_TARGET_OBJECT_ROLL
+# SET_CAMERASHOT_TARGET_OBJECT_ROLL
 
 ```cpp
 void SET_CAMERASHOT_TARGET_OBJECT_ROLL(int _Unk0, int _Unk1);

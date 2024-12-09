@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# AI_MISC\_AI_SET_PLAYER_PROJECTILE_IMPACT_HEAR_RANGE
+# AI_SET_PLAYER_PROJECTILE_IMPACT_HEAR_RANGE
 
 ```cpp
 void AI_SET_PLAYER_PROJECTILE_IMPACT_HEAR_RANGE(int _Unk0, int _Unk1);

@@ -2,7 +2,7 @@
 description: No description available 
 ---
 
-# BUILTIN\_PRINTNL
+# PRINTNL
 
 ```cpp
 void PRINTNL();
