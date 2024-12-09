@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-**RedHook** docs to help developers creating mods with our ScriptHook. This docs is mainly focused around my API, ~~but also feature a game scripting reference (natives, ...)~~ (WIP). If you have any suggestions to improve this docs you can send pull requests on my [github](https://github.com/K3rhos/RedHook-Docs).
+**RedHook** docs to help developers creating mods with our ScriptHook. This docs is mainly focused around my API, but also feature a game scripting reference (natives, ...). If you have any suggestions to improve this docs you can send pull requests on my [github](https://github.com/K3rhos/RedHook-Docs).
 
 ## Preview
 
