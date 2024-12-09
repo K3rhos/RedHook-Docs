@@ -8,7 +8,7 @@
 
 ## 📙 Exported Functions Reference
 
-* [RH\_GetMinorVersion](<README (1).md>)
+* [RH\_GetMinorVersion](exported-functions-reference/rh_getminorversion.md)
 * [RH\_GetMajorVersion](exported-functions-reference/rh_getmajorversion.md)
 * [ScriptWait](exported-functions-reference/scriptwait.md)
 * [ScriptRegister](exported-functions-reference/scriptregister.md)
