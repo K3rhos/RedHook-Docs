@@ -35,3 +35,8 @@
 * [SET\_PLAYER\_AUTO\_FIRING](extended-natives-reference/set_player_auto_firing.md)
 * [GET\_TIME\_SCALE](extended-natives-reference/get_time_scale.md)
 * [SET\_TIME\_SCALE](extended-natives-reference/set_time_scale.md)
+
+## 🕹️ Natives Reference
+
+* [Page 1](natives-reference/page-1/README.md)
+  * [Page 2](natives-reference/page-1/page-2.md)
