@@ -1,0 +1,9 @@
+---
+description: No description available 
+---
+
+# _NET_SESSION_GET_JOINED_GENERATION_FROM_NET_SESSION_OBJECT
+
+```cpp
+int _NET_SESSION_GET_JOINED_GENERATION_FROM_NET_SESSION_OBJECT(int _Unk0);
+```
