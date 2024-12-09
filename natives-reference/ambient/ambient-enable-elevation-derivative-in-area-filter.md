@@ -1,9 +1,0 @@
----
-description: No description available 
----
-
-# AMBIENT_ENABLE_ELEVATION_DERIVATIVE_IN_AREA_FILTER
-
-```cpp
-void AMBIENT_ENABLE_ELEVATION_DERIVATIVE_IN_AREA_FILTER(int _Unk0);
-```
