@@ -1,9 +1,9 @@
 ---
-description: No description available 
+description: Create a player actor with a model, position, rotation & outfit variation.
 ---
 
-# CREATE_PLAYER_ACTOR_IN_LAYOUT
+# CREATE\_PLAYER\_ACTOR\_IN\_LAYOUT
 
 ```cpp
-int CREATE_PLAYER_ACTOR_IN_LAYOUT(int _Unk0, int _Unk1, int _Unk2, int _Unk3, int _Unk4, int _Unk5, int _Unk6, int _Unk7, int _Unk8, int _Unk9);
+Actor CREATE_PLAYER_ACTOR_IN_LAYOUT(Layout _Layout, const char* _ActorName, ActorModel _Model, Vector2 _PositionXY, float _PositionZ, Vector2 _RotationXY, float _RotationZ, int _OutfitVariation)
 ```
