@@ -16,4 +16,12 @@ Some antivirus software may flag **RedHook** as a potential virus. If you encoun
 
 ## RedHook is partially working but i don't have any visual/doesn't render anything
 
-This is a rare known issue, seems like it's happening only with really old/low end graphics card. There is currently no solution to fix this issue yet.
+This is a rare known issue, seems like it's happening only with really old and low end graphics card. You can try to enable VMT hooking in **RedHook.ini** config file.
+
+Go at line:
+
+`UseVMT=false`
+
+and set it to true instead:
+
+`UseVMT=true`
