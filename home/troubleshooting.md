@@ -10,6 +10,8 @@ If you experience access violation errors, please disable software that may conf
 
 Be sure you have installed the latest [Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160) from **Microsoft**. Choose the **x64** version.
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 ## RedHook is detected as a virus
 
 Some antivirus software may flag **RedHook** as a potential virus. If you encounter this issue, please add an exclusion to your RDR install folder in your antivirus settings. Alternatively, temporarily disable your antivirus software.
