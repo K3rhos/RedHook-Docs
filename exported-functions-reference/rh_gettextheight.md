@@ -15,7 +15,7 @@ I suggest doing a wrapper using <mark style="color:yellow;">**strdup**</mark> so
 {% endhint %}
 
 {% hint style="danger" %}
-**\_OutputValue** result is slightly delayed, bcs the function need to do a "flip flop" to run in the rendering thread, get the value and give you back the value.
+**\_OutputValue** result is slightly delayed, bcs the function need to do a "flip flop" to run in the rendering thread, get the value and give you back the result.
 
 If you don't want to deal with that I suggest making a global/static variable somewhere storing the previous size and update it accordingly when needed.
 {% endhint %}
