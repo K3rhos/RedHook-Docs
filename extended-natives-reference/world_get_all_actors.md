@@ -12,6 +12,8 @@ Max world actors at once cannot exceed **70**.
 int WORLD_GET_ALL_ACTORS(Actor* _Array);
 ```
 
+#### Example
+
 ```cpp
 // A cool wrapper !
 static const std::vector<Actor> GetWorldAllActors()

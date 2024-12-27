@@ -1,9 +1,9 @@
 ---
-description: No description available 
+description: No description available
 ---
 
-# MAKE_TIME_OF_DAY
+# MAKE\_TIME\_OF\_DAY
 
 ```cpp
-Time MAKE_TIME_OF_DAY(int Hour, int Minute, int Second);
+Time MAKE_TIME_OF_DAY(int _Hour, int _Minute, int _Second);
 ```

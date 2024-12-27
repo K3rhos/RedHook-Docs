@@ -14,6 +14,8 @@ This function doesn't need to be ran every frame, just set it to **true**, when 
 void ALLOW_GAMEPLAY_CAMERA_FOV_OVERRIDE(bool _Toggle);
 ```
 
+#### Example
+
 <pre class="language-cpp"><code class="lang-cpp">REDHOOK::ALLOW_GAMEPLAY_CAMERA_FOV_OVERRIDE(true);
 
 <strong>Camera gameplayCamera = CAM::GET_GAME_CAMERA();
