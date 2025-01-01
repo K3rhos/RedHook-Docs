@@ -33,6 +33,7 @@
 * [WORLD\_TO\_SCREEN](extended-natives-reference/world_to_screen.md)
 * [SET\_PLAYER\_RELOAD\_TIME\_SCALE](extended-natives-reference/set_player_reload_time_scale.md)
 * [SET\_PLAYER\_AUTO\_FIRING](extended-natives-reference/set_player_auto_firing.md)
+* [SET\_ACTORS\_JUMP\_HEIGHT](extended-natives-reference/set_actors_jump_height.md)
 * [GET\_TIME\_SCALE](extended-natives-reference/get_time_scale.md)
 * [SET\_TIME\_SCALE](extended-natives-reference/set_time_scale.md)
 
