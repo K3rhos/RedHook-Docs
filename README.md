@@ -1,9 +1,10 @@
-# 👋 Welcome
+This repo is now longer maintained bcs it was previously linked with my Gitbook Docs website.
+I've decided to make my own docs website, and for loading times purpose I decided to now longer use Github repo.
+The API takes way too long to respond versus markdown files directly hosted on my webhost, considering the huge amount of game functions there is too load.
 
-**RedHook** docs to help developers creating mods with our ScriptHook. This docs is mainly focused around my API, but also feature a game scripting reference (natives, ...). If you have any suggestions to improve this docs you can send pull requests on my [github](https://github.com/K3rhos/RedHook-Docs).
+You can find my new docs here: https://docs.redmods.com/
 
-## Preview
+Thank you for your understanding !
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>RedHook console</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Red Trainer loaded with RedHook</p></figcaption></figure>
+> [!NOTE]
+> If you still want to suggest a change to my new documentation, you can still do a pull requests here on this docs and I will eventually update the changes accordingly to my website.
