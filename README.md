@@ -1,7 +1,7 @@
 > [!WARNING]
 > This repo is now longer maintained bcs it was previously linked with my Gitbook Docs website.
 > I've decided to make my own docs website, and for loading times purpose I decided to now longer use Github repo.
-> The API takes way too long to respond versus markdown files directly hosted on my webhost, considering the huge amount of game functions there is too load.
+> The API takes way too long to respond versus markdown files directly hosted on my webhost.
 > 
 > You can find my new docs here: https://docs.redmods.com/
 > 
